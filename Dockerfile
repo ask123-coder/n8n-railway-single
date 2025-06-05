@@ -1,0 +1,2 @@
+FROM n8nio/n8n:latest
+ENV N8N_DISABLE_PRODUCTION_MAIN_LOG=true
